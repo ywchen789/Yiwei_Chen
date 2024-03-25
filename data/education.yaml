@@ -1,9 +1,10 @@
 ---
 - degree: B.Eng.
-  department: Computer Science and Engineering
+  department: Computer Science and Techonology
   school: Shandong University
   schoolUrl: https://www.sdu.edu.cn/
   period: Jun. 2025
   supervisor:
     - name: Pengfei Hu
       homepage: https://perfecthu.github.io/
+
