@@ -1,9 +1,9 @@
----
-- degree: Undergraduate
-  department: Computer Science and Engineering
-  school: Shandong University
-  schoolUrl: https://www.sdu.edu.cn/
-  period: Jun. 2025
-  supervisor:
-    - name: Pengfei Hu
-      homepage: https://perfecthu.github.io/
+# ---
+# - degree: Undergraduate
+#   department: Computer Science and Engineering
+#   school: Shandong University
+#   schoolUrl: https://www.sdu.edu.cn/
+#   period: Jun. 2025
+#   supervisor:
+#     - name: Pengfei Hu
+#       homepage: https://perfecthu.github.io/
