@@ -1,4 +1,15 @@
-# ---
+---
+- title: Research assistant
+  affiliation: Shandong University, School of Computer Science and Technology, Institute of Intelligent Computing
+  url: https://iic.sdu.edu.cn/
+  city: Qingdao
+  country: China
+  begin:
+    month: September
+    year: 2022
+  end:
+    month: July
+    year: 2025
 # - title: Research assistant
 #   affiliation: The George Washington University, Department of Electrical and Computer Engineering
 #   url: https://ece.engineering.gwu.edu/
@@ -21,14 +32,3 @@
 #   end:
 #     month: July
 #     year: 2023
-- title: Research assistant
-  affiliation: Shandong University, School of Computer Science and Technology, Institute of Intelligent Computing
-  url: https://iic.sdu.edu.cn/
-  city: Qingdao
-  country: China
-  begin:
-    month: September
-    year: 2022
-  end:
-    month: July
-    year: 2025
